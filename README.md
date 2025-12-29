@@ -180,11 +180,11 @@ Found similar issues?
 
 ### Why This Approach?
 
-✅ **Non-Intrusive**: Warns but doesn't block users
-✅ **Fast**: Simple algorithms, no external API calls needed
-✅ **User-Friendly**: Clear, actionable information
-✅ **Scalable**: Can be enhanced with ML/NLP as dataset grows
-✅ **Cost-Effective**: No additional services required
+**Non-Intrusive**: Warns but doesn't block users
+**Fast**: Simple algorithms, no external API calls needed
+**User-Friendly**: Clear, actionable information
+**Scalable**: Can be enhanced with ML/NLP as dataset grows
+**Cost-Effective**: No additional services required
 
 ### Limitations & Trade-offs
 
@@ -471,11 +471,12 @@ If I were to rebuild this project or continue development, here are the improvem
 ### Summary
 
 **Top 3 Priorities for Next Build**:
-1. ✅ Real-time updates (biggest UX improvement)
-2. ✅ Server-side similarity detection (scalability)
-3. ✅ Pagination (performance)
+1. Real-time updates (biggest UX improvement)
+2. Server-side similarity detection (scalability)
+3. Pagination (performance)
 
 These improvements would transform this from a functional prototype into a production-ready application suitable for real-world use.
 
 Built as part of an internship project demonstrating full-stack development skills with modern technologies.
+
 
